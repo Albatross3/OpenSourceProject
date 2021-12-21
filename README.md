@@ -48,5 +48,7 @@ driver.find_element_by_xpath('//*[@id="id_password_3"]').send_keys("")
 2단계 인증은 카카오톡 -> 설정 -> 개인/보안 -> 카카오 계정에 들어가면 2단계 인증을 했는지 안 했는지 파악 가능합니다.
 
 ## 참고 자료/Reference
-* [kakao developers document](https://developers.kakao.com/docs)
+* [kakao developers document(로그인 및 메세지 API](https://developers.kakao.com/docs)
 * [셀리니움 공식 문서](https://selenium-python.readthedocs.io/index.html)
+## 라이센스
+위 오픈소스 소프트웨어는 GNU Library or Lesser General Public License version 3.0에 따라 배포된다. [GNU](https://olis.or.kr/license/Detailselect.do?lId=1073&mapCode=010073&lType=osi)
