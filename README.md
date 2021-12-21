@@ -46,3 +46,7 @@ driver.find_element_by_xpath('//*[@id="id_password_3"]').send_keys("")
 
 카카오톡내에서 인증 2단계가 되어있다면 해제하고 사용해주시면 됩니다. 
 2단계 인증은 카카오톡 -> 설정 -> 개인/보안 -> 카카오 계정에 들어가면 2단계 인증을 했는지 안 했는지 파악 가능합니다.
+
+## 참고 자료/Reference
+* [kakao developers document](https://developers.kakao.com/docs)
+* [셀리니움 공식 문서](https://selenium-python.readthedocs.io/index.html)
