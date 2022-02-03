@@ -52,7 +52,8 @@ driver.find_element_by_xpath('//*[@id="id_password_3"]').send_keys("")
 2. 자체 외출 판단 알고리즘
 3. 카카오 로그인,메세지 API를 이용한 '나'에게 메세지 보내기
 
-[시연 영상 유투브 링크](https://www.youtube.com/watch?v=KxsaMT42WuA)
+## 프로그램 시연 영상
+[시연 영상](https://www.youtube.com/watch?v=KxsaMT42WuA)
 
 ## 참고 자료/Reference
 * [kakao developers document(로그인 및 메세지 API)](https://developers.kakao.com/docs)
